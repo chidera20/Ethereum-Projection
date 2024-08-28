@@ -1,1 +1,1 @@
-# deedgod
+# Ethereum Project
